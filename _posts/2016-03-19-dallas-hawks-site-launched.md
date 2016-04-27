@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Dallas Hawks, Awesome Dude, Starts New Site"
 date: 2016-03-19
 ---
