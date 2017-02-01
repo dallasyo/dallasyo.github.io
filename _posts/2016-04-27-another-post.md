@@ -2,10 +2,11 @@
 layout: post
 comments: true
 title: another post
-date: 2016-04-27
+date: {}
 published: true
 ---
 
 another post - seeing if this works
 
-![this is my alt text]({{site.baseurl}}/_posts/Screen Shot 2017-02-01 at 12.06.23 PM.png)
+![alt test goes here!!!]({{site.baseurl}}/_posts/grey.png)
+
