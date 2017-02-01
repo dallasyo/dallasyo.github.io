@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: another post
-date: {}
+date: 2016-04-27
 published: true
 ---
 
