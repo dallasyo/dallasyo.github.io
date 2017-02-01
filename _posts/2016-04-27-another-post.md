@@ -8,5 +8,5 @@ published: true
 
 another post - seeing if this works
 
-![alt test goes here!!!]({{site.baseurl}}/_posts/grey.png)
+![alt test goes here!!!]({{site.url}}/_posts/grey.png)
 
